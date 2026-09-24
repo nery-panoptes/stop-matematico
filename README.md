@@ -8,6 +8,8 @@ O jogo funciona diretamente no navegador, sem cadastro, instalação ou servidor
 
 [**Abrir o STOP Matemático no navegador**](https://nery-panoptes.github.io/stop-matematico/)
 
+📱 **Também funciona no celular:** toque no link acima para abrir o jogo diretamente no navegador do telefone. Não é necessário instalar aplicativo nem fazer cadastro.
+
 ## Objetivo educacional
 
 A atividade ajuda os estudantes a recordar, relacionar e explicar conhecimentos matemáticos de forma divertida. Durante as rodadas, eles mobilizam vocabulário, história da matemática, fórmulas, símbolos e conceitos, além de praticarem argumentação ao justificar suas respostas.
