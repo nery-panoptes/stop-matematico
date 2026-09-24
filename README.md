@@ -4,6 +4,10 @@ O **STOP Matemático** é um jogo educativo para oficinas e aulas presenciais. A
 
 O jogo funciona diretamente no navegador, sem cadastro, instalação ou servidor. Depois de baixado, também pode ser usado sem internet.
 
+## Acessar o jogo
+
+[**Abrir o STOP Matemático no navegador**](https://nery-panoptes.github.io/stop-matematico/)
+
 ## Objetivo educacional
 
 A atividade ajuda os estudantes a recordar, relacionar e explicar conhecimentos matemáticos de forma divertida. Durante as rodadas, eles mobilizam vocabulário, história da matemática, fórmulas, símbolos e conceitos, além de praticarem argumentação ao justificar suas respostas.
@@ -91,7 +95,7 @@ Não é necessário instalar nenhum programa.
 
 ## Agradecimentos
 
-Agradecimento especial aos participantes do grupo que colaboraram para a realização e apresentação da oficina. O grupo cursa **Matemática na Universidade de Brasília (UnB)** e, durante a realização deste trabalho, estava no **6º semestre**:
+Um agradecimento especial aos meus colegas de curso, que foram de imensa importância para a realização e apresentação desta oficina. Cursamos **Matemática na Universidade de Brasília (UnB)** e estamos no **6º semestre**. O caminho na universidade seria muito mais difícil sem vocês — obrigado pela parceria, pelas ideias e por todo o apoio:
 
 - **Felipe Silva de Lima**
 - **Eric Abreu de Ferriche Bittencourt**
