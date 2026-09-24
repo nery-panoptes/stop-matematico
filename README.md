@@ -95,7 +95,7 @@ Não é necessário instalar nenhum programa.
 
 ## Agradecimentos
 
-Um agradecimento especial aos meus colegas de curso, que foram de imensa importância para a realização e apresentação desta oficina. Cursamos **Matemática na Universidade de Brasília (UnB)** e estamos no **6º semestre**. O caminho na universidade seria muito mais difícil sem vocês — obrigado pela parceria, pelas ideias e por todo o apoio:
+Um agradecimento especial aos meus colegas de curso, que foram de imensa importância para a realização e apresentação desta oficina. Cursamos **Matemática na Universidade de Brasília (UnB)** e estamos no **6º semestre**. O caminho na universidade seria muito mais difícil sem vocês. Obrigado pela parceria, pelas ideias e por todo o apoio :)
 
 - **Felipe Silva de Lima**
 - **Eric Abreu de Ferriche Bittencourt**
